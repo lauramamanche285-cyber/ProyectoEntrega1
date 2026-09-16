@@ -1,0 +1,10 @@
+101;Pegante 1;8000
+102;Cuaderno 2;47000
+103;Pegante 3;22000
+104;Cuaderno 4;39000
+105;Cuaderno 5;19000
+106;Marcador 6;27000
+107;Regla 7;32000
+108;Cuaderno 8;7000
+109;Regla 9;20000
+110;Regla 10;47000

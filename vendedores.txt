@@ -1,0 +1,5 @@
+CC;827031553;Laura;Lopez
+NIT;487039117;Sofia;Torres
+NIT;733853250;Juan;Rodriguez
+NIT;887138596;Sofia;Torres
+NIT;162654094;Maria;Martinez
