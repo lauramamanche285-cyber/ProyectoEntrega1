@@ -1,0 +1,10 @@
+ENTREGA 2 - REPORTE DE ESTADO DEL PROYECTO Y PARTES FALTANTES
+
+El proyecto actual cuenta con las dos clases principales requeridas (GenerateInfoFiles y Main) 
+completamente funcionales y capaces de procesar la informacion de entrada para generar 
+los archivos CSV de reportes ordenados.
+
+Partes pendientes para la Entrega Final (Semana 7/8):
+1. Incorporacion de funcionalidades Extra opcionales (deteccion de formatos erroneos o IDs inexistentes).
+2. Redaccion definitiva y consolidacion del archivo conclusion.txt requerido en la guia final.
+3. Optimizacion de pruebas de estres con volumenes masivos de datos.
